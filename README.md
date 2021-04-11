@@ -35,7 +35,7 @@ Here are some screenshots of the output obtained:
   
   Bowler Classification report and Confusion matrix:
   
-  ![classification_report_bowler](https://user-images.githubusercontent.com/54388663/114297144-99d7e180-9acc-11eb-847d-14717dd5b32c.JPG) ![confusion_matrix_bowler](https://user-images.githubusercontent.com/54388663/114297145-9b090e80-9acc-11eb-9c47-77742061e29d.JPG)
+  ![imgonline-com-ua-resize-fzP6SPp1kuMO](https://user-images.githubusercontent.com/54388663/114297743-13bd9a00-9ad0-11eb-8e03-39f998ea6d8c.jpg)    ![imgonline-com-ua-resize-LYigfKlfd675W](https://user-images.githubusercontent.com/54388663/114298951-71ed7b80-9ad6-11eb-81a0-9ee2b0e03d53.jpg)
   
   Allrounder Classification report and Confusion matrix:
   
