@@ -17,7 +17,7 @@ Here are some screenshots of the output obtained:
 
   Bowler Clustering:
   
-  ![bowler_clustering](https://user-images.githubusercontent.com/54388663/114295748-e3bcc980-9ac4-11eb-8eff-f8c737088d31.JPG)
+  ![imgonline-com-ua-resize-fhXeeGKKtR6JyOb](https://user-images.githubusercontent.com/54388663/114296799-dacef680-9aca-11eb-9d9b-7efe9f2bd2af.jpg)
   
   Wicket keeper clustering:
   
