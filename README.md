@@ -13,7 +13,7 @@ Here are some screenshots of the output obtained:
   
   Batsman Clustering:
   
-  ![batsman_clustering](https://user-images.githubusercontent.com/54388663/114295753-e61f2380-9ac4-11eb-8e04-506451caa443.png)
+  ![imgonline-com-ua-resize-qItpFkmoEH](https://user-images.githubusercontent.com/54388663/114296958-a3147e80-9acb-11eb-9743-259d1e0c37b6.jpg)
 
   Bowler Clustering:
   
@@ -25,8 +25,8 @@ Here are some screenshots of the output obtained:
   
   All rounder clustering:
 
-  ![all_rounder_clustering](https://user-images.githubusercontent.com/54388663/114295751-e4edf680-9ac4-11eb-9be4-c908d997f6ba.png)
-  
+            ![imgonline-com-ua-resize-qItpFkmoEH](https://user-images.githubusercontent.com/54388663/114296923-6f395900-9acb-11eb-8b77-728cb7e4a6ff.jpg)
+
   2. Classification: Random Forest classifier was used
   3. Regression: We basically worked on improving accuracy using Regression. For improving the accuracy, we have used Hyper Parameter Tunimg. Here is a comparison chart for the same:
   4. Linear Programming: To finally get an optimised team from the playing 2 teams, we have used Linear Programming: Here's the output for Linear Programming:
