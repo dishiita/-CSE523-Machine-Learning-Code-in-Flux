@@ -31,19 +31,50 @@ Here are some screenshots of the output obtained:
   
   Batsman and Wicketkeeper Classification report and Confusion matrix:
   
-  ![classification_report_batsman_wicket_keeper](https://user-images.githubusercontent.com/54388663/114297147-9ba1a500-9acc-11eb-90d6-dc026ef439be.png) ![confusion_matrix_batsman_wicket_keeper](https://user-images.githubusercontent.com/54388663/114297150-9cd2d200-9acc-11eb-979b-4929152435c4.png)
+  ![classification_report_batsman_wicket_keeper](https://user-images.githubusercontent.com/54388663/114297147-9ba1a500-9acc-11eb-90d6-dc026ef439be.png) 
+  
+  ![confusion_matrix_batsman_wicket_keeper](https://user-images.githubusercontent.com/54388663/114297150-9cd2d200-9acc-11eb-979b-4929152435c4.png)
   
   Bowler Classification report and Confusion matrix:
+ 
+  ![classification_report_bowler](https://user-images.githubusercontent.com/54388663/114299308-2936c200-9ad8-11eb-8db4-73db546e55f2.JPG)
   
-  ![imgonline-com-ua-resize-fzP6SPp1kuMO](https://user-images.githubusercontent.com/54388663/114297743-13bd9a00-9ad0-11eb-8e03-39f998ea6d8c.jpg)    ![imgonline-com-ua-resize-LYigfKlfd675W](https://user-images.githubusercontent.com/54388663/114298951-71ed7b80-9ad6-11eb-81a0-9ee2b0e03d53.jpg)
+  ![confusion_matrix_bowler](https://user-images.githubusercontent.com/54388663/114299347-4cfa0800-9ad8-11eb-9cb9-5ff2d3a22cc5.JPG)
   
   Allrounder Classification report and Confusion matrix:
   
-  ![classification_report_all_rounder](https://user-images.githubusercontent.com/54388663/114297149-9c3a3b80-9acc-11eb-9825-ffa40d362791.png) ![confusion_matrix_all_rounder](https://user-images.githubusercontent.com/54388663/114297148-9ba1a500-9acc-11eb-9e70-e85a8db49dd8.png) 
+  ![classification_report_all_rounder](https://user-images.githubusercontent.com/54388663/114297149-9c3a3b80-9acc-11eb-9825-ffa40d362791.png) 
+  
+  ![confusion_matrix_all_rounder](https://user-images.githubusercontent.com/54388663/114297148-9ba1a500-9acc-11eb-9e70-e85a8db49dd8.png) 
   
   3. Regression: We basically worked on improving accuracy using Regression. For improving the accuracy, we have used Hyper Parameter Tunimg. Here is a comparison chart for the same:
+
+  Batsman and wicket keeper accuracy:
+  
+  ![batsman_wicket_keeper_regression_accuracy](https://user-images.githubusercontent.com/54388663/114299422-baa63400-9ad8-11eb-93f9-defdea5e08a6.JPG)
+  
+  Bowler accuracy:
+  
+  ![bowler_regression_accuracy](https://user-images.githubusercontent.com/54388663/114299423-bbd76100-9ad8-11eb-9ff0-357d8d17aad5.JPG)
+  
+  All rounder accuracy:
+  
+  ![all_rounder_regression_accuracy](https://user-images.githubusercontent.com/54388663/114299428-bed25180-9ad8-11eb-861b-e4e689ce49a6.JPG)
+  
+  Hyper parameter tuning comparison table:
+  
+  ![hyper_parameter_tuning](https://user-images.githubusercontent.com/54388663/114299424-bc6ff780-9ad8-11eb-9ca9-2f9309aa4bb0.png)
   
   4. Linear Programming: To finally get an optimised team from the playing 2 teams, we have used Linear Programming: Here's the output for Linear Programming:
+  
+  Playing teams:
+  
+  ![playing_22_from_2_teams](https://user-images.githubusercontent.com/54388663/114299425-bd088e00-9ad8-11eb-8d8a-a9108c9635f1.png)
+  
+  Optimised solution using Linear Programming:
+  
+  ![LP_optimised_team_solution](https://user-images.githubusercontent.com/54388663/114299426-be39bb00-9ad8-11eb-8c3e-d6a99fed02b4.png)
+
 
 References:
 1. Nilesh M. Patil, Bevan H. Sequeira, Neil N. Gonsalves and Abhishek A. Singh, “Cricket Team Prediction Using Machine Learning Techniques”, 
