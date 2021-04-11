@@ -10,6 +10,19 @@ Performance of a team depends highly upon performance of individual players and 
 Here are some screenshots of the output obtained:
 
   1. Clustering: K-means clustering 5 classes - 8, 8.5, 9, 9.5,10 ratings to the players
+  
+  Batsman Clustering:
+  ![](Results/batsman_clustering.jpg)
+  
+  Bowler Clustering:
+  ![](Results/bowler_clustering.jpg)
+  
+  Wicket keeper clustering:
+  ![](Results/wicket_keeper_clustering.jpg)
+  
+  All rounder clustering:
+  ![](Results/all_rounder_clustering.jpg)
+  
   2. Classification: Random Forest classifier was used
   3. Regression: We basically worked on improving accuracy using Regression. For improving the accuracy, we have used Hyper Parameter Tunimg. Here is a comparison chart for the same:
   4. Linear Programming: To finally get an optimised team from the playing 2 teams, we have used Linear Programming: Here's the output for Linear Programming:
