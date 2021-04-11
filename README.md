@@ -28,7 +28,21 @@ Here are some screenshots of the output obtained:
   ![imgonline-com-ua-resize-qItpFkmoEH](https://user-images.githubusercontent.com/54388663/114296958-a3147e80-9acb-11eb-9743-259d1e0c37b6.jpg)
   
   2. Classification: Random Forest classifier was used
+  
+  Batsman and Wicketkeeper Classification report and Confusion matrix:
+  
+  ![classification_report_batsman_wicket_keeper](https://user-images.githubusercontent.com/54388663/114297147-9ba1a500-9acc-11eb-90d6-dc026ef439be.png) ![confusion_matrix_batsman_wicket_keeper](https://user-images.githubusercontent.com/54388663/114297150-9cd2d200-9acc-11eb-979b-4929152435c4.png)
+  
+  Bowler Classification report and Confusion matrix:
+  
+  ![classification_report_bowler](https://user-images.githubusercontent.com/54388663/114297144-99d7e180-9acc-11eb-847d-14717dd5b32c.JPG) ![confusion_matrix_bowler](https://user-images.githubusercontent.com/54388663/114297145-9b090e80-9acc-11eb-9c47-77742061e29d.JPG)
+  
+  Allrounder Classification report and Confusion matrix:
+  
+  ![classification_report_all_rounder](https://user-images.githubusercontent.com/54388663/114297149-9c3a3b80-9acc-11eb-9825-ffa40d362791.png) ![confusion_matrix_all_rounder](https://user-images.githubusercontent.com/54388663/114297148-9ba1a500-9acc-11eb-9e70-e85a8db49dd8.png) 
+  
   3. Regression: We basically worked on improving accuracy using Regression. For improving the accuracy, we have used Hyper Parameter Tunimg. Here is a comparison chart for the same:
+  
   4. Linear Programming: To finally get an optimised team from the playing 2 teams, we have used Linear Programming: Here's the output for Linear Programming:
 
 References:
