@@ -12,16 +12,20 @@ Here are some screenshots of the output obtained:
   1. Clustering: K-means clustering 5 classes - 8, 8.5, 9, 9.5,10 ratings to the players
   
   Batsman Clustering:
-  ![](Results/batsman_clustering.jpg)
   
+  ![batsman_clustering](https://user-images.githubusercontent.com/54388663/114295753-e61f2380-9ac4-11eb-8e04-506451caa443.png)
+
   Bowler Clustering:
-  ![](Results/bowler_clustering.jpg)
+  
+  ![bowler_clustering](https://user-images.githubusercontent.com/54388663/114295748-e3bcc980-9ac4-11eb-8eff-f8c737088d31.JPG)
   
   Wicket keeper clustering:
-  ![](Results/wicket_keeper_clustering.jpg)
+  
+  ![wicket_keeper_clustering](https://user-images.githubusercontent.com/54388663/114295752-e5868d00-9ac4-11eb-899a-8923169b3696.png)
   
   All rounder clustering:
-  ![](Results/all_rounder_clustering.jpg)
+
+  ![all_rounder_clustering](https://user-images.githubusercontent.com/54388663/114295751-e4edf680-9ac4-11eb-9be4-c908d997f6ba.png)
   
   2. Classification: Random Forest classifier was used
   3. Regression: We basically worked on improving accuracy using Regression. For improving the accuracy, we have used Hyper Parameter Tunimg. Here is a comparison chart for the same:
